@@ -30,14 +30,14 @@ choose. You review every string and key before anything changes.
 
 ![The checklist: every string and its key, before anything changes](images/review.png)
 
+![The Chinese language file after one run: every key translated, placeholders and tags intact](images/translations.png)
+
 ## Cost
 
 The extension is free. You bring your own API key (Anthropic, OpenAI, DeepSeek
 or any OpenAI-compatible provider) and pay the provider directly. A single file
 usually costs cents; in our tests a project of about 840 files cost a few
 dollars.
-
-![The Chinese language file after one run: every key translated, placeholders and tags intact](images/translations.png)
 
 ## Getting started
 
